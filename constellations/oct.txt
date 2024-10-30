@@ -1,0 +1,37 @@
+Aquarius: The Water Bearer
+Aquarius: RA: 23 hours, Dec: -15 degrees
+Aquarius: Visible between latitudes 65 and -90 degrees
+Aquarius: Best seen in October at 9:00 PM
+Aquarius: Brightest star is Sadalsuud
+Aquarius: Messier objects: M2, M72-73
+Cepheus: King of Ethiopia or Andromeda's Father
+Cepheus: RA: 22 hours, Dec: 70 degrees
+Cepheus: Visible between latitudes 90 and -10 degrees
+Cepheus: Best seen in October at 9:00 PM
+Cepheus: Brightest star is Alderamin
+Grus: The Crane
+Grus: RA: 22 hours, Dec: -45 degrees
+Grus: Visible between latitudes 35 and -90 degrees
+Grus: Best seen in October at 9:00 PM
+Grus: Brightest star is Alnair
+Lacerta: The Lizard
+Lacerta: RA: 22 hours, Dec: 45 degrees
+Lacerta: Visible between latitudes 90 and -35 degrees
+Lacerta: Best seen in October at 9:00 PM
+Lacerta: Brightest star is Alpha Lacertae
+Octans: The Octant
+Octans: RA: 22 hours, Dec: -85 degrees
+Octans: Visible between latitudes -5 and -90 degrees
+Octans: Best seen in October at 9:00 PM
+Octans: Brightest star is Nu Octantis
+Pegasus: The Winged Horse
+Pegasus: RA: 22 hours, Dec: 20 degrees
+Pegasus: Visible between latitudes 90 and -60 degrees
+Pegasus: Best seen in October at 9:00 PM
+Pegasus: Brightest star is Enif
+Pegasus: Messier objects: M15
+Piscis Austrinus: The Southern Fish
+Piscis Austrinus: RA: 22 hours, Dec: -30 degrees
+Piscis Austrinus: Visible between latitudes 50 and -90 degrees
+Piscis Austrinus: Best seen in October at 9:00 PM
+Piscis Austrinus: Brightest star is Fomalhaut *

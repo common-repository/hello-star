@@ -1,0 +1,43 @@
+Antlia: The Air Pump
+Antlia: RA: 10 hours, Dec: -35 degrees
+Antlia: Visible between latitudes 45 and -90 degrees
+Antlia: Best seen in April at 9:00 PM
+Antlia: Brightest star is Alpha Antliae
+Chamaeleon: The Chameleon
+Chamaeleon: RA: 11 hours, Dec: -80 degrees
+Chamaeleon: Visible between latitudes 0 and -90 degrees
+Chamaeleon: Best seen in April at 9:00 PM
+Chamaeleon: Brightest star is Alpha Chamaeleontis
+Crater: The Cup
+Crater: RA: 11 hours, Dec: -15 degrees
+Crater: Visible between latitudes 65 and -90 degrees
+Crater: Best seen in April at 9:00 PM
+Crater: Brightest star is Delta Crateris
+Hydra: The Water Serpent
+Hydra: RA: 10 hours, Dec: -20 degrees
+Hydra: Visible between latitudes 60 and -90 degrees
+Hydra: Best seen in April at 9:00 PM
+Hydra: Brightest star is Alphard
+Hydra: Messier objects: M48, M68, M83
+Leo: The Lion
+Leo: RA: 11 hours, Dec: 15 degrees
+Leo: Visible between latitudes 90 and -65 degrees
+Leo: Best seen in April at 9:00 PM
+Leo: Brightest star is Regulus *
+Leo: Messier objects: M65-66, M95-96, M105
+Leo Minor: The Lion Cub
+Leo Minor: RA: 10 hours, Dec: -35 degrees
+Leo Minor: Visible between latitudes 90 and -45 degrees
+Leo Minor: Best seen in April at 9:00 PM
+Leo Minor: Brightest star is Praecipua
+Sextans: The Sextant
+Sextans: RA: 10 hours, Dec: 0 degrees
+Sextans: Visible between latitudes 80 and -80 degrees
+Sextans: Best seen in April at 9:00 PM
+Sextans: Brightest star is Alpha Sextantis
+Ursa Major: The Greater Bear
+Ursa Major: RA: 11 hours, Dec: 50 degrees
+Ursa Major: Visible between latitudes 90 and -30 degrees
+Ursa Major: Best seen in April at 9:00 PM
+Ursa Major: Brightest star is Alioth
+Ursa Major: Messier objects: M40, M81-82, M97, M101, M108-109

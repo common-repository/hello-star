@@ -1,0 +1,32 @@
+Caelum: The Sculptor's Chisel
+Caelum: RA: 5 hours, Dec: -40 degrees
+Caleum: Visible between latitudes 40 and -90 degrees
+Caleum: Best seen in January at 9:00 PM
+Caleum: Brightest star is Alpha Caeli
+Dorado: The Swordfish
+Dorado: RA: 5 hours, Dec: -65 degrees
+Dorado: Visible between latitudes 15 and -90 degrees
+Dorado: Best seen in January at 9:00 PM
+Dorado: Brightest star is Alpha Doradus
+Mensa: The Table Mountain
+Mensa: RA: 5 hours, Dec: -80 degrees
+Mensa: Visible between latitudes 0 and -90 degrees
+Mensa: Best seen in January at 9:00 PM
+Mensa: Brightest star is alpha Mensae
+Orion: The Great Hunter
+Orion: RA: 5 hours, Dec: 5 degrees
+Orion: Visible between latitudes 85 and -75 degrees
+Orion: Best seen in January at 9:00 PM
+Orion: Brightest stars: Rigel, Betelgeuse, Bellatrix *
+Orion: Messier objects: M42, M43, M78
+Reticulum: The Net
+Reticulum: RA: 4 hours, Dec: -60 degrees
+Reticulum: Visible between latitudes 20 and -90 degrees
+Reticulum: Best seen in January at 9:00 PM
+Reticulum: Brightest star is Alpha Reticuli
+Taurus: The Bull
+Taurus: RA: 4 hours, Dec: 15 degrees
+Taurus: Visible between latitudes 90 and -65 degrees
+Taurus: Best seen in January at 9:00 PM
+Taurus: Brightest stars: Aldebaran, Elnath *
+Taurus: Messier objects: M1, M45

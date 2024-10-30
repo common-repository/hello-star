@@ -1,0 +1,54 @@
+Apus: The Bird of Paradise
+Apus: RA: 16 hours, Dec: -75 degrees
+Apus: Visible between latitudes 5 and -90 degrees
+Apus: Best seen in July at 9:00 PM
+Apus: Brightest star is Alpha Apodis
+Ara: The Altar
+Ara: RA: 17 hours, Dec: -55 degrees
+Ara: Visible between latitudes 25 and -90 degrees
+Ara: Best seen in July at 9:00 PM
+Ara: Brightest star is Beta Arae
+Corona Borealis: The Northern Crown
+Corona Borealis: RA: 16 hours, Dec: 30 degrees
+Corona Borealis: Visible between latitudes 90 and -50 degrees
+Corona Borealis: Best seen in July at 9:00 PM
+Corona Borealis: Brightest star is Alpha Coronae Borealis
+Draco: The Dragon
+Draco: RA: 17 hours, Dec: 65 degrees
+Draco: Visible between latitudes 90 and -15 degrees
+Draco: Best seen in July at 9:00 PM
+Draco: Brightest star is Etamin
+Hercules: Hercules
+Hercules: RA: 17 hours, Dec: 30 degrees
+Hercules: Visible between latitudes 90 and -50 degrees
+Hercules: Best seen in July at 9:00 PM
+Hercules: Brightest star is Kornephoros
+Hercules: Messier objects: M13, M92
+Norma: The Carpenter's Square
+Norma: RA: 16 hours, Dec: -50 degrees
+Norma: Visible between latitudes 30 and -90 degrees
+Norma: Best seen in July at 9:00 PM
+Norma: Brightest star is Gamma Normae
+Ophiuchus: The Serpent Holder
+Ophiuchus: RA: 17 hours, Dec: 0 degrees
+Ophiuchus: Visible between latitudes 80 and -80 degrees
+Ophiuchus: Best seen in July at 9:00 PM
+Ophiuchus: Brightest star is Rasalhague
+Ophiuchus: Messier objects: M9-10, M12, M14, M19, M62, M107
+Scorpius: The Scorpion
+Scorpius: RA: 17 hours, Dec: -40 degrees
+Scorpius: Visible between latitudes 40 and -90 degrees
+Scorpius: Best seen in July at 9:00 PM
+Scorpius: Brightest stars: Antares, Shaula *
+Scorpius: Messier objects: M4, M6-7, M80
+Serpens: The Serpent
+Serpens: RA: 17 hours, Dec: 0 degrees
+Serpens: Visible between latitudes 80 and -80 degrees
+Serpens: Best seen in July at 9:00 PM
+Serpens: Brightest star is Unukalhai
+Serpens: Messier objects: M5, M16
+Triangulum Australe: The Southern Triangle
+Triangulum Australe: RA: 16 hours, Dec: -65 degrees
+Triangulum Australe: Visible between latitudes 15 and -90 degrees
+Triangulum Australe: Best seen in July at 9:00 PM
+Triangulum Australe: Brightest star is Alpha Trianguli Australis

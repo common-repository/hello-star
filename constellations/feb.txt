@@ -1,0 +1,45 @@
+Auriga: The Charioteer
+Auriga: RA: 6 hours, Dec: 40 degrees
+Auriga: Visible between latitudes 90 and -40 degrees
+Auriga: Best seen in February at 9:00 PM
+Auriga: Brightest star is Capella *
+Auriga: Messier objects: M36, M37, M38
+Camelopardalis: The Giraffe
+Camelopardalis: RA: 6 hours, Dec: 70 degrees
+Camelopardalis: Visible between latitudes 90 and -10 degrees
+Camelopardalis: Best seen in February at 9:00 PM
+Camelopardalis: Brightest star is Beta Cam
+Canis Major: The Greater Dog
+Canis Major: RA: 7 hours, Dec: -20 degrees
+Canis Major: Visible between latitudes 60 and -90 degrees
+Canis Major: Best seen in February at 9:00 PM
+Canis Major: Brightest stars: Sirius, Adhara *
+Canis Major: Messier objects: M41
+Columba: The Dove
+Columba: RA: 6 hours, Dec: -35 degrees
+Columba: Visible between latitudes 45 and -90 degrees
+Columba: Best seen in February at 9:00 PM
+Columba: Brightest star is Phact
+Gemini: The Twins
+Gemini: RA: 7 hours, Dec: 20 degrees
+Gemini: Visible between latitudes 90 and -60 degrees
+Gemini: Best seen in February at 9:00 PM
+Gemini: Brightest stars: Pollux, Castor *
+Gemini: Messier objects: M35
+Lepus: The Hare
+Lepus: RA: 6 hours, Dec: -20 degrees
+Lepus: Visible between latitudes 60 and -90 degrees
+Lepus: Best seen in February at 9:00 PM
+Lepus: Brightest star is Arneb
+Lepus: Messier objects: M79
+Monoceros: The Unicorn
+Monoceros: RA: 7 hours, Dec: -5 degrees
+Monoceros: Visible between latitudes 75 and -85 degrees
+Monoceros: Best seen in February at 9:00 PM
+Monoceros: Brightest star is Beta Monocerotis
+Monoceros: Messier objects: M50
+Pictor: The Painter's Easel
+Pictor: RA: 6 hours, Dec: -55 degrees
+Pictor: Visible between latitudes 25 and -90 degrees
+Pictor: Best seen in February at 9:00 PM
+Pictor: Brightest star is Beta Pictoris

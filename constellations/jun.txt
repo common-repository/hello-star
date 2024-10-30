@@ -1,0 +1,25 @@
+Bootes: The Bear Driver
+Bootes: RA: 15 hours, Dec: 30 degrees
+Bootes: Visible between latitudes 90 and -50 degrees
+Bootes: Best seen in June at 9:00 PM
+Bootes: Brightest star is Arcturus *
+Circinus: The Compasses
+Circinus: RA: 15 hours, Dec: -60 degrees
+Circinus: Visible between latitudes 20 and -90 degrees
+Circinus: Best seen in June at 9:00 PM
+Circinus: Brightest star is Alpha Circini
+Libra: The Beam Balance
+Libra: RA: 15 hours, Dec: -15 degrees
+Libra: Visible between latitudes 65 and -90 degrees
+Libra: Best seen in June at 9:00 PM
+Libra: Brightest star is Zuben Elschemali
+Lupus: The Wolf
+Lupus: RA: 15 hours, Dec: -45 degrees
+Lupus: Visible between latitudes 35 and -90 degrees
+Lupus: Best seen in June at 9:00 PM
+Lupus: Brightest star is Alpha Lupi
+Ursa Minor: The Lesser Bear
+Ursa Minor: RA: 15 hours, Dec: 70 degrees
+Ursa Minor: Visible between latitudes 90 and -10 degrees
+Ursa Minor: Best seen in June at 9:00 PM
+Ursa Minor: Brightest star is Polaris

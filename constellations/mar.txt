@@ -1,0 +1,42 @@
+Cancer: The Crab
+Cancer: RA: 9 hours, Dec: 20 degrees
+Cancer: Visible between latitudes 90 and -60 degrees
+Cancer: Best seen in March at 9:00 PM
+Cancer: Brightest star is Altarf
+Cancer: Messier objects: M44, M67
+Canis Minor: The Lesser Dog
+Canis Minor: RA: 8 hours, Dec: 5 degrees
+Canis Minor: Visible between latitudes 85 and -75 degrees
+Canis Minor: Best seen in March at 9:00 PM
+Canis Minor: Brightest star is Procyon *
+Carina: The Keel
+Carina: RA: 9 hours, Dec: -60 degrees
+Carina: Visible between latitudes 20 and -90 degrees
+Carina: Best seen in March at 9:00 PM
+Carina: Brightest star is Canopus *
+Lynx: The Lynx
+Lynx: RA: 8 hours, Dec: 45 degrees
+Lynx: Visible between latitudes 90 and -35 degrees
+Lynx: Best seen in March at 9:00 PM
+Lynx: Brightest star is Alpha Lyncis
+Puppis: The Stern
+Puppis: RA: 8 hours, Dec: -40 degrees
+Puppis: Visible between latitudes 40 and -90 degrees
+Puppis: Best seen in March at 9:00 PM
+Puppis: Brightest star is Naos
+Puppis: Messier objects: M46, M47, M93
+Pyxis: The Compass Box
+Pyxis: RA: 9 hours, Dec: -30 degrees
+Pyxis: Visible between latitudes 50 and -90 degrees
+Pyxis: Best seen in March at 9:00 PM
+Pyxis: Brightest star is Alpha Pyxidis
+Vela: The Sail
+Vela: RA: 9 hours, Dec: -50 degrees
+Vela: Visible between latitudes 30 and -90 degrees
+Vela: Best seen in March at 9:00 PM
+Vela: Brightest star is Suhail alMuhlif
+Volans: The Flying Fish
+Volans: RA: 8 hours, Dec: -70 degrees
+Volans: Visible between latitudes 10 and -90 degrees
+Volans: Best seen in March at 9:00 PM
+Volans: Brightest star is Beta Volantis

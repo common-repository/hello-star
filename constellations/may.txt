@@ -1,0 +1,38 @@
+Canes Venatici: The Hunting Dogs
+Canes Venatici: RA: 13 hours, Dec: 40 degrees
+Canes Venatici: Visible between latitudes 90 and -40 degrees
+Canes Venatici: Best seen in May at 9:00 PM
+Canes Venatici: Brightest star is Cor Caroli
+Canes Venatici: Messier objects: M3, M51, M63, M94, M106
+Centaurus: The Centaur
+Centaurus: RA: 13 hours, Dec: -50 degrees
+Centaurus: Visible between latitudes 30 and -90 degrees
+Centaurus: Best seen in May at 9:00 PM
+Centaurus: Brightest stars: Rigel Kentaurus, Hadar *
+Coma Berenices: Berenice's Hair
+Coma Berenices: RA: 13 hours, Dec: 20 degrees
+Coma Berenices: Visible between latitudes 90 and -60 degrees
+Coma Berenices: Best seen in May at 9:00 PM
+Coma Berenices: Brightest star is Beta Comae Berenices
+Coma Berenices: Messier objects: M53,M64,M85,M88,M91,M98-100
+Corvus: The Crow
+Corvus: RA: 12 hours, Dec: -20 degrees
+Corvus: Visible between latitudes 60 and -90 degrees
+Corvus: Best seen in May at 9:00 PM
+Corvus: Brightest star is Gienah
+Crux: The Southern Cross
+Crux: RA: 12 hours, Dec: -60 degrees
+Crux: Visible between latitudes 20 and -90 degrees
+Crux: Best seen in May at 9:00 PM
+Crux: Brightest stars: Acrux, Becrux, Gacrux *
+Musca: The Fly
+Musca: RA: 12 hours, Dec: -70 degrees
+Musca: Visible between latitudes 10 and -90 degrees
+Musca: Best seen in May at 9:00 PM
+Musca: Brightest star is Alpha Muscae
+Virgo: The Maiden
+Virgo: RA: 13 hours, Dec: 0 degrees
+Virgo: Visible between latitudes 80 and -80 degrees
+Virgo: Best seen in May at 9:00 PM
+Virgo: Brightest star is Spica *
+Virgo: Messier objects: M49,M58-61,M84,M86-87,M89,M90,M104

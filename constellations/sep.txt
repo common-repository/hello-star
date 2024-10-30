@@ -1,0 +1,54 @@
+Aquila: The Eagle
+Aquila: RA: 20 hours, Dec: 5 degrees
+Aquila: Visible between latitudes 85 and -75 degrees
+Aquila: Best seen in September at 9:00 PM
+Aquila: Brightest star is Altair *
+Capricornus: The Sea Goat
+Capricornus: RA: 21 hours, Dec: -20 degrees
+Capricornus: Visible between latitudes 60 and -90 degrees
+Capricornus: Best seen in September at 9:00 PM
+Capricornus: Brightest star is Deneb Algedi
+Capricornus: Messier objects: M30
+Cygnus: The Swan or the Northern Cross
+Cygnus: RA: 21 hours, Dec: 40 degrees
+Cygnus: Visible between latitudes 90 and -40 degrees
+Cygnus: Best seen in September at 9:00 PM
+Cygnus: Brightest star is Deneb *
+Cygnus: Messier objects: M29, M39
+Delphinus: The Dolphin
+Delphinus: RA: 21 hours, Dec: 10 degrees
+Delphinus: Visible between latitudes 90 and -70 degrees
+Delphinus: Best seen in September at 9:00 PM
+Delphinus: Brightest star is Rotanev
+Equuleus: The Foal
+Equuleus: RA: 21 hours, Dec: 10 degrees
+Equuleus: Visible between latitudes 90 and -70 degrees
+Equuleus: Best seen in September at 9:00 PM
+Equuleus: Brightest star is Kitalpha
+Indus: The American Indian
+Indus: RA: 21 hours, Dec: -55 degrees
+Indus: Visible between latitudes 25 and -90 degrees
+Indus: Best seen in September at 9:00 PM
+Indus: Brightest star is The Persian
+Microscopium: The Microscope
+Microscopium: RA: 21 hours, Dec: -35 degrees
+Microscopium: Visible between latitudes 45 and -90 degrees
+Microscopium: Best seen in September at 9:00 PM
+Microscopium: Brightest star is Gamma Microscopii
+Pavo: The Peacock
+Pavo: RA: 20 hours, Dec: -65 degrees
+Pavo: Visible between latitudes 15 and -90 degrees
+Pavo: Best seen in September at 9:00 PM
+Pavo: Brightest star is Peacock
+Sagitta: The Arrow
+Sagitta: RA: 20 hours, Dec: 10 degrees
+Sagitta: Visible between latitudes 90 and -70 degrees
+Sagitta: Best seen in September at 9:00 PM
+Sagitta: Brightest star is Gamma Sagittae
+Sagitta: Messier objects: M71
+Vulpecula: The Fox
+Vulpecula: RA: 20 hours, Dec: 25 degrees
+Vulpecula: Visible between latitudes 90 and -55 degrees
+Vulpecula: Best seen in September at 9:00 PM
+Vulpecula: Brightest star is Anser
+Vulpecula: Messier objects: M27

@@ -1,0 +1,43 @@
+Aries: The Ram
+Aries: RA: 3 hours, Dec: 20 degrees
+Aries: Visible between latitudes 90 and -60 degrees
+Aries: Best seen in December at 9:00 PM
+Aries: Brightest star is Hamal
+Cetus: The Sea Monster
+Cetus: RA: 2 hours, Dec: -10 degrees
+Cetus: Visible between latitudes 70 and -90 degrees
+Cetus: Best seen in December at 9:00 PM
+Cetus: Brightest star is Diphda
+Cetus: Messier objects: M77
+Eridanus: The River
+Eridanus: RA: 3 hours, Dec: -20 degrees
+Eridanus: Visible between latitudes 60 and -90 degrees
+Eridanus: Best seen in December at 9:00 PM
+Eridanus: Brightest star is Achernar *
+Fornax: The Laboratory Furnace
+Fornax: RA: 3 hours, Dec: -30 degrees
+Fornax: Visible between latitudes 50 and -90 degrees
+Fornax: Best seen in December at 9:00 PM
+Fornax: Brightest star is Fornacis
+Horologium: The Clock
+Horologium: RA: 3 hours, Dec: -60 degrees
+Horologium: Visible between latitudes 20 and -90 degrees
+Horologium: Best seen in December at 9:00 PM
+Horologium: Brightest star is Alpha Horologii
+Hydrus: The Water Snake
+Hydrus: RA: 2 hours, Dec: -75 degrees
+Hydrus: Visible between latitudes 5 and -90 degrees
+Hydrus: Best seen in December at 9:00 PM
+Hydrus: Brightest star is Beta Hydri
+Perseus: The Hero
+Perseus: RA: 3 hours, Dec: 45 degrees
+Perseus: Visible between latitudes 90 and -35 degrees
+Perseus: Best seen in December at 9:00 PM
+Perseus: Brightest star is Mirfak
+Perseus: Messier objects: M34, M76
+Triangulum: The Triangle
+Triangulum: RA: 2 hours, Dec: 30 degrees
+Triangulum: Visible between latitudes 90 and -50 degrees
+Triangulum: Best seen in December at 9:00 PM
+Triangulum: Brightest star is Beta Trianguli
+Triangulum: Messier objects: M33

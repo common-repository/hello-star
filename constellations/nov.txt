@@ -1,0 +1,33 @@
+Andromeda: Princess of Ethiopia or the Chained Lady
+Andromeda: RA: 1 hours, Dec: 40 degrees
+Andromeda: Visible between latitudes 90 and -40 degrees
+Andromeda: Best seen in November at 9:00 PM
+Andromeda: Brightest star is Alpheratz
+Andromeda: Messier objects: M31-32, M110
+Cassiopeia: Queen of Ethiopia or Andromeda's Mother
+Cassiopeia: RA: 1 hours, Dec: 60 degrees
+Cassiopeia: Visible between latitudes 90 and -20 degrees
+Cassiopeia: Best seen in November at 9:00 PM
+Cassiopeia: Brightest star is Schedar
+Cassiopeia: Messier objects: M52, M103
+Phoenix: The Phoenix
+Phoenix: RA: 1 hours, Dec: -50 degrees
+Phoenix: Visible between latitudes 30 and -90 degrees
+Phoenix: Best seen in November at 9:00 PM
+Phoenix: Brightest star is Ankaa
+Pisces: The Fishes
+Pisces: RA: 1 hours, Dec: 15 degrees
+Pisces: Visible between latitudes 90 and -65 degrees
+Pisces: Best seen in November at 9:00 PM
+Pisces: Brightest star is Alpherg
+Pisces: Messier objects: M74
+Sculptor: The Sculptor's Workshop
+Sculptor: RA: 24 hours, Dec: -30 degrees
+Sculptor: Visible between latitudes 50 and -90 degrees
+Sculptor: Best seen in November at 9:00 PM
+Sculptor: Brightest star is Alpha Sculptoris
+Tucana: The Toucan
+Tucana: RA: 24 hours, Dec: -65 degrees
+Tucana: Visible between latitudes 15 and -90 degrees
+Tucana: Best seen in November at 9:00 PM
+Tucana: Brightest star is Alpha Tucanae

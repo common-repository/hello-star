@@ -1,0 +1,28 @@
+Corona Austrina: The Southern Crown
+Corona Austrina: RA: 19 hours, Dec: -40 degrees
+Corona Austrina: Visible between latitudes 40 and -90 degrees
+Corona Austrina: Best seen in August at 9:00 PM
+Corona Austrina: Brightest star is Alfecca Meridiana
+Lyra: The Lyre
+Lyra: RA: 19 hours, Dec: 40 degrees
+Lyra: Visible between latitudes 90 and -40 degrees
+Lyra: Best seen in August at 9:00 PM
+Lyra: Brightest star is Vega *
+Lyra: Messier objects: M56, M57
+Sagittarius: The Archer
+Sagittarius: RA: 19 hours, Dec: -25 degrees
+Sagittarius: Visible between latitudes 55 and -90 degrees
+Sagittarius: Best seen in August at 9:00 PM
+Sagittarius: Brightest star is Kaus Australis
+Sagittarius: Messier objects: M8,M17-18,M20-25,M28,M54-55,M69,M70-75
+Scutum: The Shield
+Scutum: RA: 19 hours, Dec: -10 degrees
+Scutum: Visible between latitudes 70 and -90 degrees
+Scutum: Best seen in August at 9:00 PM
+Scutum: Brightest star is Alpha Scuti
+Scutum: Messier objects: M11, M26
+Telescopium: The Telescope
+Telescopium: RA: 19 hours, Dec: -50 degrees
+Telescopium: Visible between latitudes 30 and -90 degrees
+Telescopium: Best seen in August at 9:00 PM
+Telescopium: Brightest star is Alpha Telescopii
